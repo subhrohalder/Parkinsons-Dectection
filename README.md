@@ -1,2 +1,2 @@
-# Parkinsons-Dectection
- Parkinsons-Dectection
+# Parkinsons-Detection
+ Parkinsons-Detection
